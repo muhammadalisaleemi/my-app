@@ -1,4 +1,6 @@
 
+
+
 export default function Home() {
   return (
 
@@ -68,7 +70,21 @@ export default function Home() {
 
 <h3>Contact Form</h3>
 
-
+<form>
+              <label>
+                  Name:
+                  <input type="text" name="name"  />
+              </label>
+              <label>
+                  Email:
+                  <input type="email" name="email" />
+              </label>
+              <label>
+                  Message:
+                  <textarea name="message" />
+              </label>
+              <input type="submit" value="Submit" />
+          </form>
 
 <h2 id="program-of-studies">Program of Studies</h2>
 
