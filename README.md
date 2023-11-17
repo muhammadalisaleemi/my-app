@@ -21,4 +21,4 @@ Here is your this week assignment details
 Create a GitHub repo and push your code. Assignment submission link: https://forms.gle/BHvwEsyR1ei1WqG18
 
 Regards,
-Naveed Sarwar, Abu Hurairah.
+Naveed Sarwar, Abu Hurairah
